@@ -5,7 +5,7 @@ Mazes are amazing: keep running, find the exit if you can! If you are not too ha
 
 ## Usage
 * Random class with lists and multidimensional arrays 
-* tore the results in a file.
+* store the results in a file.
 
 ## Result
 [![Watch the video](https://raw.githubusercontent.com/karolskolasinski/maze-runner/master/Maze%20Runner/Project%20files/screenshot.png)](https://stepik.org/media/attachments/lesson/209893/demonstration.mp4)

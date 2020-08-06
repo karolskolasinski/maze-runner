@@ -10,7 +10,7 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/2193
-status: Unchecked
+status: Solved
 feedback:
   message: Failed to get check result from JetBrains Academy
   time: Wed, 05 Aug 2020 05:21:46 UTC
