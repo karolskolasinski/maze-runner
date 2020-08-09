@@ -67,12 +67,14 @@ topics:
     theory_id: 3614
   - title: Computer algorithms
     theory_id: 4953
+  - title: Recursion basics
+    theory_id: 5984
+  - title: Introducing the first algorithm
+    theory_id: 10336
   - title: The big O notation
     theory_id: 4991
   - title: Data structures
     theory_id: 5161
-  - title: Recursion basics
-    theory_id: 5984
   - title: Graph
     theory_id: 6685
   - title: Basic terminology
