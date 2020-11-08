@@ -10,5 +10,9 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/1932
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/1932">JetBrains
+    Academy</a></html>
+  time: Sun, 08 Nov 2020 15:46:30 UTC
 record: -1
