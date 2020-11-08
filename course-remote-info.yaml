@@ -3,17 +3,24 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/209893/additional_files.json
   is_template_based: false
   use_ide: true
+update_date: Sun, 08 Nov 2020 15:07:42 UTC
 stages:
 - id: 251
   step: 5393
+  is_completed: false
 - id: 252
   step: 5394
+  is_completed: false
 - id: 253
   step: 5395
+  is_completed: false
 - id: 254
   step: 5396
+  is_completed: false
 topics:
   0:
+  - title: Units of information
+    theory_id: 6865
   - title: Introduction to Java
     theory_id: 3500
   - title: Basic literals
@@ -24,10 +31,10 @@ topics:
     theory_id: 3749
   - title: Types and variables
     theory_id: 3518
-  - title: Primitive and reference types
-    theory_id: 5035
-  - title: Array
-    theory_id: 3511
+  - title: Sizes and ranges
+    theory_id: 3532
+  - title: Type casting
+    theory_id: 3510
   - title: Comments
     theory_id: 3520
   - title: Naming variables
@@ -56,6 +63,12 @@ topics:
     theory_id: 3498
   - title: Branching statements
     theory_id: 3507
+  - title: Calling a method
+    theory_id: 10973
+  - title: Primitive and reference types
+    theory_id: 5035
+  - title: Array
+    theory_id: 3511
   - title: Iterating over arrays
     theory_id: 3602
   - title: Multi-dimensional array
